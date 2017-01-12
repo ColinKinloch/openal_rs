@@ -1,0 +1,7 @@
+[package]
+name = "openal"
+version = "0.1.0"
+authors = ["Colin Kinloch <colin@kinlo.ch>"]
+
+[dependencies]
+
